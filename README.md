@@ -1,5 +1,4 @@
 # hand_gesture_detection
-Hand gesture detection based on the hand module of Google's [mediapipe](https://github.com/google/mediapipe) API. The hand module gives the coordinates of 21 hand landmarks, which can be found in the image below.
 
 This project focuses on three functionalities:
 1. Hand detection.
