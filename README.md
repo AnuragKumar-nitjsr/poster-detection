@@ -7,7 +7,7 @@ This project focuses on three functionalities:
 3. Volume control using hand gestures.
 
 ## Requirements
-Python 3.8 or later with dependencies listed in [requirements.txt](https://github.com/jhan15/gesture_detection/blob/master/requirements.txt). To install run:
+Python 3.8 or later with dependencies listed in [requirements.txt](https://github.com/anurag-kumar-nitjsr/hand-gesture-detection/blob/main/requirements.txt). To install run:
 
 ```bash
 $ git clone https://github.com/jhan15/hand_gesture_detection.git
